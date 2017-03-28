@@ -10,8 +10,8 @@ Paper the work is based on:
  Stable URL: [http://www.jstor.org/stable/2344994](http://www.jstor.org/stable/2344994)
                                                               
 Recreated by: Falk Heger for the course 'Quantitative Methods I' at Zeppelin University
-Date: 28.03.2017
+ Date: 28.03.2017
 
 Version: R for Windows 3.3.1
-require(forecast);
-require(reshape2);
+ require(forecast);
+ require(reshape2);
